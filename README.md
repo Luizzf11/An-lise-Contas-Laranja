@@ -1,4 +1,4 @@
-# An-lise-Contas-Laranja
+# Analise-Contas-Laranja
 # 🛡️ Análise de Dados para Prevenção à Fraude (SQL)
 
 ## 📌 Sobre o Projeto
