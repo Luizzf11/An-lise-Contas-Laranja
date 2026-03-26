@@ -17,9 +17,7 @@ O desafio consistiu em duas frentes de investigação de transações de alto va
 * **CTEs (Common Table Expressions)** para organização lógica da query.
 * **Window Functions (`ROW_NUMBER`)** para criação de rankings particionados sem perder a granularidade dos dados.
 
-## 💻 A Solução (Query Principal)
-
-Para resolver a missão final de rastreamento do recebedor principal, desenvolvi a seguinte query utilizando Window Functions:
+Para resolver a missão final de rastreamento do recebedor principal, desenvolvi a seguinte consulta utilizando funções de janela:
 
 ```sql
 WITH RankingTransacoes AS (
